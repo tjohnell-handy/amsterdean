@@ -1,3 +1,3 @@
 #Amsterdean
 
-[The best spots to check out in Amsterdam!](amsterdean.com)
+[The best spots to check out in Amsterdam!](http://amsterdean.com)
